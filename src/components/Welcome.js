@@ -1,6 +1,6 @@
 // write code for Welcome component here
 import React from "react";
-import "./Welcome.css";
+import '../styles/App.css';
 
 const Welcome = (props) => {
   const { name } = props;
