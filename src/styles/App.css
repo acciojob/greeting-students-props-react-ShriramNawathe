@@ -12,3 +12,23 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .welcome-greeting {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 0;
+  }
+  
+  .welcome-subheading {
+    font-size: 2rem;
+    color: #666;
+    margin-top: 0;
+  }
+  
